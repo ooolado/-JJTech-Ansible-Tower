@@ -32,4 +32,3 @@
 		12 Ansible Tower console
 		enter your login details and get free subscription license
 		accept agreement and proceed.
-![image](https://user-images.githubusercontent.com/112643263/226506358-cd656304-d4b0-4001-8aa9-06db8e8fd7ea.png)
