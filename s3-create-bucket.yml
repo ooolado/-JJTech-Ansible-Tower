@@ -1,7 +1,7 @@
 ---
 - hosts: localhost
   tasks:
-  - name: Create an S3 bucket
+  - name: To create an S3 bucket
     s3_bucket:
       name: "{{ S3_Bucket_Name }}"
       region: eu-west-1
